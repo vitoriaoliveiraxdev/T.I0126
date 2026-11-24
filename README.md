@@ -1,2 +1,3 @@
-# T.I0126
-Projeto Integrador do Senac
+# PROJETO LAN HAUSE E-GAME
+
+Jogo: Urban Terror. 
