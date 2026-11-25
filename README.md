@@ -9,8 +9,8 @@ Preparar uma estrutura de computadores interligados em rede para a realização 
 ## 💻 Estrutura
 - 01 Servidor
 - 08 PCs para jogadores
-- 03 PC para Backup
-- 01 PC para narrador
+- 03 PCs para Backup
+- 01 PCs para narrador
 
 ## 🛠️ Softwares e tecnologias
 - Sistema operacional: Windows 11 Professional
